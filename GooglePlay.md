@@ -1,5 +1,5 @@
 ## 尽可能不要图省事使用第三方apk进行一键安装，按照下面步骤，自己手动安装。
-## 转自 https://github.com/pachangcheng/android-google-play-store
+## 转自 https://github.com/hideuvpn/android-google-play-store
 # 如何安装谷歌三件套
 1. google服务框架
 2. google play service
