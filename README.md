@@ -9,6 +9,7 @@
 ## [V2ray和Clash下载安装](https://github.com/pachangcheng/mianfeijiedian/blob/main/software.md) 
 ## [Google Play 安装](https://github.com/pachangcheng/mianfeijiedian/blob/main/GooglePlay.md)
 sing-box clash v2rayN
+
 下面的节点失效。发现新的可以试用的机场会更新。
 
 期待中国的独裁早日被会灭。
