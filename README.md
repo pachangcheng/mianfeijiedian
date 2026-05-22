@@ -1,8 +1,13 @@
-# 爬长城 更新于2026-05-03 18:09
+# 爬长城 更新于2026-05-22 0:09
 ## 免费节点，v2ray订阅，clash订阅节点，每天更新。
-## 墙在一天就更新一天，就是陪伴它。
+~~ 墙在一天就更新一天，就是陪伴它。 ~~
+[奈云 v2ny.com 使用有些注册免费试用12小时](https://www.v2ny.com/)
+不准备更新，以后大家可以找免费试用的机场，有条件的就支持一次买个套餐。
 ## [V2ray和Clash下载安装](https://github.com/pachangcheng/mianfeijiedian/blob/main/software.md) 
 ## [Google Play 安装](https://github.com/pachangcheng/mianfeijiedian/blob/main/GooglePlay.md)
+sing-box clash v2rayN
+下面的节点失效。发现新的可以试用的机场会更新。
+期待中国的独裁早日被会灭。
 ```
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?path=%2F%3Fed%3D1080&security=none&encryption=none&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&type=ws&sni=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt#%E7%BE%8E%E5%9B%BD%28%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29176
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%E7%BE%8E%E5%9B%BD%28%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
